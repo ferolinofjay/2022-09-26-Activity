@@ -17,7 +17,7 @@ public class Main {
         Person<String> personSecond = new Person<String>();
         personSecond.setMyName("Seth Obenita");
         personSecond.setMyDetails("Beautiful and Gorgeuos");
-        personSecond.setMyVehicle("I love driving fjay.");
+        personSecond.setMyVehicle("I love driving airplane.");
         human.add("\"" + personSecond.getMyName() + "\"" + " I am " + personSecond.getMyDetails() + " and "
                 + personSecond.getMyVehicle());
 
